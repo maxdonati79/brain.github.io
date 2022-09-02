@@ -28,7 +28,7 @@ baseurl: "/brain.github.io"
 # Website Header, Description, Footer year and text. 
 # If you are deleting this, make sure you remove it from HTML files too 
 heading: MaxDonati SecondBrain # Change this 
-content: Obsidian ready Jekyll Theme
+content: MaxDonati SecondBrain
 copyright:  
   year: © 2022
   msg: Contents under CC-BY-NC 
