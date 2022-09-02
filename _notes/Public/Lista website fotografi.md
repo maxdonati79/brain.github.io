@@ -4,16 +4,14 @@ feed: show
 date : 02-09-2022
 ---
 
-# Lista website fotografi
-
 | Name                                   | URL                                                                        | Agency / Info                                      |
 | -------------------------------------- | -------------------------------------------------------------------------- | -------------------------------------------------- |
 | Adam Pretty                            | http://www.adampretty.com/                                                 | Getty Images sport                                 |
 | Alex Coghe                             | https://www.alexcoghe.com/                                                 |                                                    |
 | Alex Strohl                            | http://www.alexstrohl.com/                                                 |                                                    |
 | Alinne Rezende                         | http://www.alinnerezende.com/                                              |                                                    |
-| Ami Vitale                             | https://www.amivitale.com/                                                 | National Geographic Photographer                   |
-| Amy Toensing                           | http://www.amytoensing.com/                                                | National Geographic Photographer                   |
+| Ami Vitale                             | https://www.amivitale.com/                                                 | National Geographic                                |
+| Amy Toensing                           | http://www.amytoensing.com/                                                | National Geographic                                |
 | Anastasia Taylor-Lind                  | http://www.anastasiataylorlind.com/                                        |                                                    |
 | Andri Tambunan                         | https://www.andritambunan.com/                                             |                                                    |
 | Angelo Antolino                        | https://www.angeloantolino.com/                                            |                                                    |
@@ -32,11 +30,11 @@ date : 02-09-2022
 | Dan Kitwood                            | http://www.dankitwood.com/                                                 | Getty Images news                                  |
 | Danila Tkachenko                       | http://www.danilatkachenko.com/projects/motherland/                        |                                                    |
 | Darcy Padilla                          | http://www.darcypadilla.com/                                               | VU                                                 |
-| Dave Yoder                             | http://www.daveyoder.com/                                                  | National Geographic Photographer                   |
+| Dave Yoder                             | http://www.daveyoder.com/                                                  | National Geographic                                |
 | David Alan Harvey                      | https://www.davidalanharvey.com                                            | Magnum Photos (ex)                                 |
 | David Burnett                          | https://www.davidburnett.com//www.davidburnett.com/                        |                                                    |
 | David Clifford                         | https://www.davidcliffordphotography.com/                                  |                                                    |
-| David Guttenfelder                     | http://www.davidguttenfelder.com/                                          | National Geographic Photographer                   |
+| David Guttenfelder                     | http://www.davidguttenfelder.com/                                          | National Geographic                                |
 | Davide Monteleone                      | http://davidemonteleone.com                                                | VU                                                 |
 | Denis Rouvre                           | https://www.rouvre.com/                                                    |                                                    |
 | Disfarmer                              | http://www.disfarmer.com/                                                  |                                                    |
@@ -46,7 +44,7 @@ date : 02-09-2022
 | Evgenia Arbugaeva                      | http://www.evgeniaarbugaeva.com/                                           |                                                    |
 | Ezra Shaw                              | http://www.ezrashaw.com/                                                   | Getty Images sport                                 |
 | Ferhat Bouda                           | https://www.bouda-photographie.com/                                        | VU                                                 |
-| Fritz Hoffmann                         | https://www.fritzhoffmann.com/                                             | National Geographic Photographer                   |
+| Fritz Hoffmann                         | https://www.fritzhoffmann.com/                                             | National Geographic                                |
 | Georg Aerni                            | https://www.georgaerni.ch/                                                 |                                                    |
 | Gian Paolo Barbieri                    | https://www.fondazionegianpaolobarbieri.it/it/homepage/                    |                                                    |
 | Hans van der Meer                      | http://www.hansvandermeer.nl/                                              |                                                    |
@@ -56,7 +54,7 @@ date : 02-09-2022
 | James Moreton                          | https://www.jamesmoreton.photo/home                                        |                                                    |
 | Jennifer Judkins                       | https://www.jenniferjudkins.com/                                           |                                                    |
 | Jeremy Cowart                          | https://www.jeremycowart.com                                               |                                                    |
-| Jim Richardson                         | https://www.jimrichardsonphotography.com/about                             | National Geographic Photographer                   |
+| Jim Richardson                         | https://www.jimrichardsonphotography.com/about                             | National Geographic                                |
 | Joachim Ladefoged                      | https://www.joachimladefoged.com/                                          | VII                                                |
 | Joel Sternfeld                         | https://www.joelsternfeld.net/                                             |                                                    |
 | Jon Pack                               | https://jonpack.com/                                                       |                                                    |
@@ -101,7 +99,7 @@ date : 02-09-2022
 | Simon Roberts                          | https://www.simoncroberts.com/                                             |                                                    |
 | Stefano Cerio                          | http://www.cerio.it/                                                       |                                                    |
 | Stephanie Sinclair                     | http://stephaniesinclair.photoshelter.com/index                            |                                                    |
-| Stephen Alvarez                        | https://alvarezphotography.com/                                            | National Geographic Photographer                   |
+| Stephen Alvarez                        | https://alvarezphotography.com/                                            | National Geographic                                |
 | Stephen Shore                          | http://stephenshore.net/index.php                                          |                                                    |
 | Steve Davis                            | https://davis.photo/                                                       |                                                    |
 | Stéphane Lavoué                        | http://www.stephanelavoue.fr/                                              |                                                    |
