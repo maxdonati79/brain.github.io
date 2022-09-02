@@ -4,31 +4,31 @@ feed: show
 date : 02-09-2022
 ---
 
-| Name                                   | URL                                                                        | Agency / Info                                      |
-| -------------------------------------- | -------------------------------------------------------------------------- | -------------------------------------------------- |
-| Adam Pretty                            | <a href="http://www.adampretty.com" target="_blank">http://www.adampretty.com</a>                                              | Getty Images sport                                 |
-| Alex Coghe                             | https://www.alexcoghe.com/                                                 |                                                    |
-| Alex Strohl                            | http://www.alexstrohl.com/                                                 |                                                    |
-| Alinne Rezende                         | http://www.alinnerezende.com/                                              |                                                    |
-| Ami Vitale                             | https://www.amivitale.com/                                                 | National Geographic                                |
-| Amy Toensing                           | http://www.amytoensing.com/                                                | National Geographic                                |
-| Anastasia Taylor-Lind                  | http://www.anastasiataylorlind.com/                                        |                                                    |
-| Andri Tambunan                         | https://www.andritambunan.com/                                             |                                                    |
-| Angelo Antolino                        | https://www.angeloantolino.com/                                            |                                                    |
-| Anton Corbijn                          | http://antoncorbijn.com/                                                   |                                                    |
-| Arthur Bondar                          | http://www.arthurbondar.com/                                               |                                                    |
-| Benjamin Rasmussen                     | https://benjaminrasmussenphoto.com/                                        | Getty Images Reportage                             |
-| Berthold Steinhilber                   | http://www.bertholdsteinhilber.com/                                        |                                                    |
-| Brian Lehmann                          | http://brianlehmann.com/                                                   |                                                    |
-| Chelsea Matiash                        | http://www.chelseamatiash.com/single                                       |                                                    |
-| Chris Steele-Perkins                   | http://www.chrissteeleperkins.com/                                         | Magnum Photos                                      |
-| Christopher Bonnie                     | https://www.christopherbonnie.com/                                         |                                                    |
-| Christopher Lee                        | http://theotherchristopherlee.com/                                         |                                                    |
-| Christopher Morris                     | http://christophermorrisphotography.com/                                   | VII                                                |
-| Clive Mason                            | https://clivejmason.com/albums                                             | Getty Images sport                                 |
-| Collective 220                         | https://www.collective220.net/                                             |                                                    |
-| Dan Kitwood                            | http://www.dankitwood.com/                                                 | Getty Images news                                  |
-| Danila Tkachenko                       | http://www.danilatkachenko.com/projects/motherland/                        |                                                    |
+| Name                                   | URL                                                                        							| Agency / Info                                      |
+| -------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- |
+| Adam Pretty                            | <a href="http://www.adampretty.com" target="_blank">http://www.adampretty.com</a>            				| Getty Images sport                                 |
+| Alex Coghe                             | <a href="https://www.alexcoghe.com" target="_blank">https://www.alexcoghe.com</a>                                            |                                                    |
+| Alex Strohl                            | <a href="http://www.alexstrohl.com" target="_blank">http://www.alexstrohl.com</a>                                            |                                                    |
+| Alinne Rezende                         | <a href="http://www.alinnerezende.com" target="_blank">http://www.alinnerezende.com</a>                                      |                                                    |
+| Ami Vitale                             | <a href="https://www.amivitale.com" target="_blank">https://www.amivitale.com</a>                                            | National Geographic                                |
+| Amy Toensing                           | <a href="http://www.amytoensing.com" target="_blank">http://www.amytoensing.com</a>                                          | National Geographic                                |
+| Anastasia Taylor-Lind                  | <a href="http://www.anastasiataylorlind.com" target="_blank">http://www.anastasiataylorlind.com</a>                          |                                                    |
+| Andri Tambunan                         | <a href="https://www.andritambunan.com" target="_blank">https://www.andritambunan.com</a>                                    |                                                    |
+| Angelo Antolino                        | <a href="https://www.angeloantolino.com" target="_blank">https://www.angeloantolino.com</a>                                  |                                                    |
+| Anton Corbijn                          | <a href="http://antoncorbijn.com" target="_blank">http://antoncorbijn.com</a>                                                |                                                    |
+| Arthur Bondar                          | <a href="http://www.arthurbondar.com" target="_blank">http://www.arthurbondar.com</a>                                        |                                                    |
+| Benjamin Rasmussen                     | <a href="https://benjaminrasmussenphoto.com" target="_blank">https://benjaminrasmussenphoto.com</a>                          | Getty Images Reportage                             |
+| Berthold Steinhilber                   | <a href="http://www.bertholdsteinhilber.com" target="_blank">http://www.bertholdsteinhilber.com</a>                          |                                                    |
+| Brian Lehmann                          | <a href="http://brianlehmann.com" target="_blank">http://brianlehmann.com</a>                                                |                                                    |
+| Chelsea Matiash                        | <a href="http://www.chelseamatiash.com/single" target="_blank">http://www.chelseamatiash.com</a>                             |                                                    |
+| Chris Steele-Perkins                   | <a href="http://www.chrissteeleperkins.com" target="_blank">http://www.chrissteeleperkins.com</a>                            | Magnum Photos                                      |
+| Christopher Bonnie                     | <a href="https://www.christopherbonnie.com" target="_blank">https://www.christopherbonnie.com</a>                            |                                                    |
+| Christopher Lee                        | <a href="http://theotherchristopherlee.com" target="_blank">http://theotherchristopherlee.com</a>                            |                                                    |
+| Christopher Morris                     | <a href="http://christophermorrisphotography.com" target="_blank">http://christophermorrisphotography.com</a>                | VII                                                |
+| Clive Mason                            | <a href="https://clivejmason.com/albums" target="_blank">https://clivejmason.com</a>                                         | Getty Images sport                                 |
+| Collective 220                         | <a href="https://www.collective220.net" target="_blank">https://www.collective220.net</a>                                    |                                                    |
+| Dan Kitwood                            | <a href="http://www.dankitwood.com" target="_blank">http://www.dankitwood.com</a>						| Getty Images news                                  |
+| Danila Tkachenko                       | <a href="http://www.danilatkachenko.com" target="_blank">http://www.danilatkachenko.com</a>					|                                                    |
 | Darcy Padilla                          | http://www.darcypadilla.com/                                               | VU                                                 |
 | Dave Yoder                             | http://www.daveyoder.com/                                                  | National Geographic                                |
 | David Alan Harvey                      | https://www.davidalanharvey.com                                            | Magnum Photos (ex)                                 |
