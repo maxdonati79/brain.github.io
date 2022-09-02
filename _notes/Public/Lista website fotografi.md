@@ -6,7 +6,7 @@ date : 02-09-2022
 
 | Name                                   | URL                                                                        | Agency / Info                                      |
 | -------------------------------------- | -------------------------------------------------------------------------- | -------------------------------------------------- |
-| Adam Pretty                            | http://www.adampretty.com/                                                 | Getty Images sport                                 |
+| Adam Pretty                            | [http://www.adampretty.com/]                                               | Getty Images sport                                 |
 | Alex Coghe                             | https://www.alexcoghe.com/                                                 |                                                    |
 | Alex Strohl                            | http://www.alexstrohl.com/                                                 |                                                    |
 | Alinne Rezende                         | http://www.alinnerezende.com/                                              |                                                    |
